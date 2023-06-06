@@ -2,7 +2,7 @@
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning react
 - 💞️ I’m looking to collaborate on any front-end back-end work
-- 📫 you can contact me on linkedin @samahd99
+- 📫 you can contact me on linkedin https://www.linkedin.com/in/samahd99/
 
 <!---
 samahd/samahd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
